@@ -1,49 +1,35 @@
-# Hi, I'm Dhruv Jiteshbhai Maradiya! 👋
+# Hi, I'm Dhruv Maradiya! 👋
 
-I’m a passionate software developer with a strong background in web development, machine learning, and automation. My work spans various projects in e-commerce, real estate analytics, chronic disease prediction, and more. I enjoy solving problems through technology and continuously learning new tools and techniques.
+I am a passionate software engineer with expertise in web development, systems programming, and API development. Currently pursuing my Master's in Applied Computing, I am open to opportunities in SDE, DevOps, and UI/UX roles.
 
 ## 🚀 About Me
 
-- 🎓 **Current Student at the University of Windsor**
-- 💻 **Work Experience:** 
-  - Front-End Developer Intern at JD Infotech
-  - Smart Home Systems Developer at the University of Windsor
-  - Multiple personal and academic projects in web development, automation, and data science
-- 🛠 **Tech Stack:** 
-  - **Languages:** JavaScript, Python, Java, C++, C, Shell, Dart
-  - **Web Development:** MERN Stack (MongoDB, Express, React, Node.js), HTML, CSS, Bootstrap, FastAPI, Flask
-  - **Tools:** Git, Azure, Postman, Docker, Selenium,PowerBI
+- 🎓 **Master's in Applied Computing** | University of Windsor
+- 🛠 **Skilled in:** C, C++, Java, Python, JavaScript, ReactJS, NodeJS, Flask
+- 🌱 **Interested in:** Full-stack Development, Cloud Computing, and DevOps
 
 ## 🏆 Projects
 
-### 1. [Tap and Go E-commerce Website](https://github.com/DhruvMaradiya/tapandgo-ecommerce-website)
-A full-stack e-commerce platform built with the MERN stack, enabling seamless user experience for purchasing products online. It includes payment integration, product search, and user authentication.
+### 1. [Smart Home Systems](https://github.com/DhruvMaradiya/smart-home-systems)
+A smart home automation system for real-time device control using Azure and MQTT.
 
-### 2. [Chronic Disease Prediction System](https://github.com/DhruvMaradiya/Chronic_disease_prediction)
-A Python-based web app to predict the risk of chronic diseases like heart disease and diabetes using machine learning models. It features real-time data visualization and predictions through a Flask-based interface.
+### 2. [TapAndGo E-commerce](https://github.com/DhruvMaradiya/tapandgo-ecommerce-website)
+A full-stack e-commerce platform enabling easy purchases of university merchandise, built with the MERN stack.
 
-### 3. [Propertico Real Estate Analytics](https://github.com/DhruvMaradiya/PropertyCostAnalysis)
-A Java project utilizing Selenium for web scraping and real estate data aggregation. Features advanced search capabilities with the help of data structures like Splay Tree and Autocomplete Trie.
+### 3. [Tweeks (Twitter Sentiment Analysis)](https://github.com/DhruvMaradiya/tweeks)
+A sentiment analysis tool that uses Twitter data to analyze the sentiment of user posts using natural language processing.
 
-### 4. [Trawler (Phishing URL Detector)](https://github.com/DhruvMaradiya/trawler)
-A machine learning-based tool that detects phishing URLs with 96.36% accuracy. Developed using Python, ReactJS, and FastAPI.
+## 📊 GitHub Stats
 
-### 5. [Smart Home Systems](https://github.com/DhruvMaradiya/smart-home-systems)
-A system designed to automate home devices using Azure, MQTT, and Dart. It includes a Flutter-based Android app and real-time data handling with the MQTT protocol.
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvMaradiya&show_icons=true&theme=radical)
 
-## 💼 Work Experience
+## 🌐 Top Languages
 
-- **Front-End Developer Intern (JD Infotech)**
-  - Developed and maintained Node.js servers for a university merchandise platform.
-  - Automated testing solutions using Selenium and contributed to backend enhancements.
-  
-- **Smart Home Systems Developer (University of Windsor)**
-  - Designed and programmed circuit connections with Azure instances.
-  - Led the development of a web platform for managing circuit designs and an accompanying Android app.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvMaradiya&layout=compact&theme=radical)
 
-## 📫 Contact Me
+## 💼 Connect With Me
 
-- **Email:** dhruvmvr@gmail.com
-- **LinkedIn:** [Dhruv Maradiya]([https://linkedin.com/in/dhruvmaradiya](https://www.linkedin.com/in/dhruv-maradiya-34b2ba190/))
-- **Portfolio:** [My Website](https://dhruv-kappa.vercel.app/)
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/dhruv-maradiya-34b2ba190/)
+- **Website:** [Visit My Portfolio](https://dhruv-kappa.vercel.app/)
 
+---
