@@ -36,4 +36,4 @@ A sentiment analysis tool that uses Twitter data to analyze the sentiment of use
 
 
 <br clear="both">
-<img src="https://github.com/DhruvMaradiya/DhruvMaradiya/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/DhruvMaradiya/DhruvMaradiya/blob/output/snake.svg" alt="Snake animation" />
