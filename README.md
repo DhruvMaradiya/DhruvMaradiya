@@ -2,12 +2,6 @@
 
 I am a passionate software engineer with expertise in web development, systems programming, and API development. Currently pursuing my Master's in Applied Computing, I am open to opportunities in SDE, DevOps, and UI/UX roles.
 
-## 🚀 About Me
-
-- 🎓 **Master's in Applied Computing** | University of Windsor
-- 🛠 **Skilled in:** C, C++, Java, Python, JavaScript, ReactJS, NodeJS, Flask
-- 🌱 **Interested in:** Full-stack Development, Cloud Computing, and DevOps
-
 ---
 
 ## ⚡ Tech Stack
