@@ -33,3 +33,7 @@ A sentiment analysis tool that uses Twitter data to analyze the sentiment of use
 - **Website:** [Visit My Portfolio](https://dhruv-kappa.vercel.app/)
 
 ---
+
+
+<br clear="both">
+<img src="https://github.com/DhruvMaradiya/DhruvMaradiya/output/snake.svg" alt="Snake animation" />
