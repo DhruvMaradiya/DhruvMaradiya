@@ -5,7 +5,9 @@ I am a passionate software engineer with expertise in web development, systems p
 ---
 <br clear="both">
 <img src="https://github.com/DhruvMaradiya/DhruvMaradiya/blob/output/snake.svg" alt="Snake animation" />
+
 ---
+
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
