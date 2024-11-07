@@ -1,6 +1,6 @@
 # Hi, I'm Dhruv Maradiya! 👋
 
-I am a passionate software engineer with expertise in web development, systems programming, and API development. Currently pursuing my Master's in Applied Computing, I am open to opportunities in SDE, DevOps, and UI/UX roles.
+I am a passionate software engineer with expertise in web development, systems programming, and API development. Currently pursuing my Master's in Applied Computing, I am open to opportunities in SDE, DevOps and Data Analyst roles.
 
 ---
 <br clear="both">
