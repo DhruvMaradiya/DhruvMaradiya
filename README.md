@@ -2,6 +2,8 @@
 
 I am a passionate software engineer with expertise in web development, systems programming, and API development. Currently pursuing my Master's in Applied Computing, I am open to opportunities in SDE, DevOps and Data Analyst roles.
 
+![coding](https://github.com/user-attachments/assets/973a9a3b-7047-4b9c-8d71-2e06c2109c9d)
+
 ---
 <br clear="both">
 <img src="https://github.com/DhruvMaradiya/DhruvMaradiya/blob/output/snake.svg" alt="Snake animation" />
