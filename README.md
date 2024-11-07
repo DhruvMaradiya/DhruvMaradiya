@@ -82,9 +82,6 @@ I am a passionate software engineer with expertise in web development, systems p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvMaradiya&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-
-
-
 ## 💼 Connect With Me
 
 - **LinkedIn:** [Connect](https://www.linkedin.com/in/dhruv-maradiya-34b2ba190/)
